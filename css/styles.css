@@ -1,0 +1,25 @@
+body{
+    background-color:#F8E8A6;
+}
+h1, p{
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.navigation-links{
+    text-align: center;
+}
+.navigation-links a{
+    margin: 0 10px;
+    font-size: 1em;
+    color:green;
+}
+img{
+    max-width:100%;
+    display:block;
+    margin:30px auto;
+}
